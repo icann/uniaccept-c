@@ -1,0 +1,9 @@
+Notes on Universal Acceptance tool for C
+----------------------------------------
+
+Please read this in conjunction with the README file.
+
+This sample implementation does not implement an API. It is a sample
+small application that tests using a DNS query (equivalent to the online
+method), which can be recycled simply into larger applications. It does
+not provide offline capability similar to the other APIs.
